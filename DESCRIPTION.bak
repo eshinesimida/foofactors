@@ -1,8 +1,8 @@
 Package: foofactors
 Title: Make Factors Less Annoying
 Version: 0.0.0.9000
-Authors@R: person("Jennifer", "Bryan", role=c("aut", "cre"),
-    email = "jenny@stat.ubc.ca")
+Authors@R: person("xianbin", "Li", role=c("aut", "cre"),
+    email = "a454656783@gmail.com")
 Description: Factors have driven people to extreme measures, like ordering
     custom conference ribbons and laptop stickers to express how HELLNO we
     feel about stringsAsFactors. And yet, sometimes you need them. Can they

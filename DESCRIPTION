@@ -17,5 +17,5 @@ Suggests: testthat,
     rmarkdown
 Imports: dplyr
 VignetteBuilder: knitr
-URL: https://github.com/jennybc/foofactors
-BugReports: https://github.com/jennybc/foofactors/issues
+URL: https://github.com/eshinesimida/foofactors
+BugReports: https://github.com/eshinesimida/foofactors/issues
